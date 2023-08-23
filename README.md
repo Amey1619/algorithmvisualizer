@@ -1,4 +1,4 @@
-"# Algo.visualizer" 
+"Project Live Link: " 
 # Algo.visualizer
 Algo.visualizer is a visualization tool used to visualize four searching algorithm
 *Breadth first search
